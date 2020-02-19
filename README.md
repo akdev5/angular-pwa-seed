@@ -1,8 +1,21 @@
 # Angular PWA Seed
-A starter project for a PWA built in Angular 2+
 
-## Install
-`npm install` will download all dependencies needed for build and dev
+## Technology Used
+
+* Angular
+* Angular CLI
+* Angular-Universal
+* Normalize
+
+## Project setup
+```
+npm install
+```
+
+### Compiles and hot-reloads for development
+```
+npm run start
+```
 
 ## Scripts
 - `npm run build` - transpile the server and compile the client
